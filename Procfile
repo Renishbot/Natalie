@@ -1,1 +1,1 @@
-web: python3 natalie.py
+worker: python3 natalie.py
