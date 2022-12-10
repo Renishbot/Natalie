@@ -108,7 +108,7 @@ async def next_page(bot, query):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="⚡HOW TO DOWNLOAD ⚡", url='https://t.me/Movies_Web0')
+            InlineKeyboardButton(text="⚡HOW TO DOWNLOAD ⚡", url='https://t.me/Auto_Filterrbot?start=ZmlsZV9CQUFEQlFBRDl3Z0FBcFBCb1ZRMTJkQnNGcExxVlJZRQ')
         ]
     )
 
@@ -691,7 +691,7 @@ async def auto_filter(client, msg, spoll=False):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="⚡HOW TO DOWNLOAD⚡", url='https://t.me/Movies_Web0')
+            InlineKeyboardButton(text="⚡HOW TO DOWNLOAD⚡", url='https://t.me/Auto_Filterrbot?start=ZmlsZV9CQUFEQlFBRDl3Z0FBcFBCb1ZRMTJkQnNGcExxVlJZRQ')
         ]
     )
 
