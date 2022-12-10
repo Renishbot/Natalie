@@ -47,7 +47,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ BUCKUP ⚡', url='https://telegram.me/REQUEST_MOvizz'),
+            InlineKeyboardButton('⚡ BACKUP ⚡', url='https://telegram.me/REQUEST_MOvizz'),
             InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://telegram.me/R_Mvzz')
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
