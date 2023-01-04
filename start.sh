@@ -1,6 +1,0 @@
-echo "Cloning koyeb Repository"
-git clone https://github.com/Renishbot/Natalie.git /Natalie 
-cd /Natalie
-pip3 install -U -r requirements.txt
-echo "Starting Bot...."
-python3 natalie.py
